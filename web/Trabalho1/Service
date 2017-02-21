@@ -1,5 +1,0 @@
-puts "Olá sou o servidor!"
-
-def name
-  name = "AS400"
-end
