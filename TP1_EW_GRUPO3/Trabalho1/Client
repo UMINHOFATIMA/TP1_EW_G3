@@ -1,0 +1,3 @@
+load 'Service'
+
+puts "Olá sou o cliente, e estou ligado ao #{name}"
